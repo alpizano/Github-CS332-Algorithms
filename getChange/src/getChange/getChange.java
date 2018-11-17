@@ -1,8 +1,5 @@
 package getChange;
 
-public class getChange {
-	package getChangeAlgorithm;
-
 	public class getChange {
 		
 		int[] table = new int[10];
@@ -39,5 +36,3 @@ public class getChange {
 		}
 	}
 
-
-}
